@@ -32,11 +32,7 @@ flowchart LR
 
 The top trace is what the phone shows: P, QRS and T waves for each beat, with heart rate taken from the time between R peaks. The bottom trace is the same signal as the microphone hears it: a tone near 18.5 kHz whose pitch rises and falls with the ECG. (Simulated example.)
 
-When nobody is touching the electrodes, the board detects that the leads are off and switches the oscillator off to save battery.
-
-### Decoding
-
-Heartthrob uses the same tone scheme as the board it's based on, so you can view the signal with that project's browser app: [Ultrasound-based ECG Monitor](https://sibowald.github.io/ecg-pcb-business-card/). Microphone access is required.
+When nobody is touching the electrodes, the board detects that the leads are off and switches the oscillator off to save battery. 
 
 ## Power
 
@@ -57,8 +53,4 @@ The board runs on a small 1S LiPo battery soldered to pads on the back, and char
 
 ## Credits
 
-Based on [SiBowald's ECG PCB business card](https://github.com/SiBowald/ecg-pcb-business-card), redesigned by Kevin Su as a rechargeable, heart-shaped board.
-
-## License
-
-MIT License. See [LICENSE](LICENSE). The original design is © Simon Bowald, also under the MIT License.
+Based on [SiBowald's ECG PCB business card](https://github.com/SiBowald/ecg-pcb-business-card), redesigned by Kevin Su as a rechargeable, heart-shaped board. 
