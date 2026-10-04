@@ -1,11 +1,6 @@
 # Heartthrob
 
-A heart-shaped ECG board that turns your heartbeat into sound. Touch the two gold electrodes and it plays your ECG as a high-pitched tone, which a phone or laptop can decode using its microphone. It has no Bluetooth, no Wi-Fi and no firmware.
-
-<p align="center">
-  <img width="420" src="hardware/Heartthrob/Render/Heartthrob_Front.png" alt="Heartthrob PCB, front">
-  <img width="420" src="hardware/Heartthrob/Render/Heartthrob_Back.png" alt="Heartthrob PCB, back">
-</p>
+A heart-shaped ECG board that turns your heartbeat into sound. Touch the two gold electrodes and it plays your ECG as a high-pitched tone, which a phone or laptop can decode using its microphone. It has no Bluetooth, no Wi-Fi and no firmware. 
 
 ## How it works
 
